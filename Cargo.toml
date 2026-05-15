@@ -4,7 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+fs = "0.0.5"
 image = "0.24"
+mimetype-detector = "0.3.9"
 
 [[bin]]
 name = "imagedecode"
